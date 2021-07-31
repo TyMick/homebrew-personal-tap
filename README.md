@@ -1,4 +1,6 @@
-# TyMick Personal-tap
+# Ty's personal [Homebrew](https://brew.sh/) tap
+
+Mac apps and packages I use that aren't important enough for any official Homebrew taps.
 
 ## How do I install these formulae?
 
