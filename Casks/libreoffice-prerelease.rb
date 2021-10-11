@@ -3,8 +3,8 @@
 # All rights reserved.
 
 cask "libreoffice-prerelease" do
-  version "7.2.0.2"
-  sha256 "9f91efd227bf650231ea7f4851a05c976e89bea23358f050c79cfef833837f1d"
+  version "7.2.2.2"
+  sha256 "dc2fd0577e3ee4f99c79d235a6efcd8fecc7069d24090c4eaea69e0fad8245ae"
 
   url "https://download.documentfoundation.org/libreoffice/testing/#{version.major_minor_patch}/mac/x86_64/LibreOffice_#{version}_MacOS_x86-64.dmg",
       verified: "documentfoundation.org/"
